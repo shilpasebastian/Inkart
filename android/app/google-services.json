@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "21235843618",
+    "firebase_url": "https://inkart-4bf24-default-rtdb.firebaseio.com",
+    "project_id": "inkart-4bf24",
+    "storage_bucket": "inkart-4bf24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21235843618:android:7fdc3fb622bea3cee1807b",
+        "android_client_info": {
+          "package_name": "com.inkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21235843618-caq2o1nkeabh9t1lu0om0gaheeo1p5pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgpB9tvg-w5F6zKzOgwYgd0BftP2cHbPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21235843618-caq2o1nkeabh9t1lu0om0gaheeo1p5pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21235843618:android:b59ba24e645ce787e1807b",
+        "android_client_info": {
+          "package_name": "com.shilpa.inkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21235843618-vjvrjrtu0pa3sfgtf04ta8i079d12pic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shilpa.inkart",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "21235843618-caq2o1nkeabh9t1lu0om0gaheeo1p5pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgpB9tvg-w5F6zKzOgwYgd0BftP2cHbPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21235843618-caq2o1nkeabh9t1lu0om0gaheeo1p5pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
